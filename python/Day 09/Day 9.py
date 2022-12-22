@@ -1,6 +1,6 @@
 data = []
 
-with open("python/Day 9/test.txt") as f:
+with open("python/Day 09/test.txt") as f:
     data = f.readlines()
 
 for i in range(len(data)):

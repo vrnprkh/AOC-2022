@@ -1,5 +1,5 @@
 data = []
-with open("python/Day 3/puzzleInput.txt") as f:
+with open("python/Day 03/puzzleInput.txt") as f:
     data = f.readlines()
 
 for i in range(len(data)):

@@ -1,6 +1,6 @@
 data = []
 
-with open("python/Day 1/puzzleInput.txt") as f:
+with open("python/Day 01/puzzleInput.txt") as f:
     data = f.readlines()
 formattedData = []
 for e in data:

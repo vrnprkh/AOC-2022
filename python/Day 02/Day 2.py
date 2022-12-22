@@ -1,5 +1,5 @@
 data = []
-with open("python/Day 2/puzzleInput.txt") as f:
+with open("python/Day 02/puzzleInput.txt") as f:
     data = f.readlines()
 
 formattedData = []
